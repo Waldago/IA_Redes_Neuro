@@ -1,0 +1,37 @@
+"","Genero","Edad:","Como vas a la universidad?","Distancia de donde residís a la universidad en cuadras:","Cantidad de materias aprobadas hasta el momento (con final):","Cantidad de materias desaprobadas hasta el momento:","Cantidad de años cursados:","Cantidad máxima de materias aprobadas en un cuatrimestre:","Cantidad mínima de materias aprobadas en un cuatrimestre:","Cantidad máxima de materias desaprobadas en un cuatrimestre:","Cantidad mínima de materias desaprobadas en un cuatrimestre:"
+"1","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",9,6,2,3,2,3,2
+"2","Femenino","mas de 45","Transporte publico","mas de 40 cuadras",4,1,2,2,2,0,0
+"3","Femenino","18 a 25","Transporte publico","mas de 40 cuadras",3,2,1,2,2,2,1
+"4","Femenino","26 a 35","Transporte publico","mas de 40 cuadras",4,1,1,2,2,1,1
+"5","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",3,2,2,3,1,3,0
+"6","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",11,1,2,2,1,1,1
+"7","Masculino","26 a 35","Transporte publico","mas de 40 cuadras",32,20,6,6,1,6,1
+"8","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",5,1,1,3,2,1,1
+"9","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",4,0,5,4,4,0,0
+"10","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",10,3,2,4,2,1,1
+"11","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",2,3,1,3,2,2,1
+"12","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",15,1,2,5,3,1,1
+"13","Femenino","18 a 25","Transporte publico","entre 10 y 20 cuadras",2,2,1,2,1,1,1
+"14","Femenino","18 a 25","Transporte publico","mas de 40 cuadras",7,5,2,3,2,0,0
+"15","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",13,0,2,5,4,0,0
+"16","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",9,1,2,3,1,2,1
+"17","Femenino","18 a 25","Transporte publico","entre 10 y 20 cuadras",16,0,25,5,3,0,0
+"18","Masculino","26 a 35","Otros","entre 1 y 10 cuadras",5,5,2,3,1,2,1
+"19","Masculino","26 a 35","Transporte propio","mas de 40 cuadras",10,2,3,4,1,1,1
+"20","Masculino","26 a 35","Otros","entre 1 y 10 cuadras",5,1,2,3,1,2,1
+"21","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",0,7,1,0,0,5,2
+"22","Femenino","18 a 25","Transporte publico","entre 10 y 20 cuadras",1,5,2,3,1,3,1
+"23","Femenino","18 a 25","Transporte publico","mas de 40 cuadras",5,3,1,4,1,3,0
+"24","Masculino","18 a 25","Transporte publico","entre 30 y 40 cuadras",8,3,2,4,0,2,0
+"25","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",6,3,2,3,2,2,1
+"26","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",11,3,2,3,2,2,1
+"27","Femenino","26 a 35","Transporte publico","mas de 40 cuadras",3,5,1,5,2,3,1
+"28","Femenino","18 a 25","Transporte publico","entre 10 y 20 cuadras",2,2,1,2,1,1,1
+"29","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",10,1,2,5,1,2,0
+"30","Masculino","36 a 45","Transporte propio","mas de 40 cuadras",16,6,3,4,2,1,1
+"31","Femenino","18 a 25","Transporte publico","entre 30 y 40 cuadras",8,3,15,4,2,3,1
+"32","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",2,0,1,2,2,0,0
+"33","Masculino","18 a 25","Transporte publico","mas de 40 cuadras",1,4,1,2,2,1,1
+"34","Masculino","18 a 25","Transporte propio","entre 10 y 20 cuadras",23,6,5,5,0,2,1
+"35","Femenino","18 a 25","Transporte publico","mas de 40 cuadras",10,2,5,3,0,2,1
+"36","Masculino","36 a 45","Transporte propio","entre 30 y 40 cuadras",25,5,5,5,1,2,1

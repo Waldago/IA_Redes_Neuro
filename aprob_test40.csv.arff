@@ -1,0 +1,35 @@
+@relation aprob_test40-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+
+@attribute Genero {Femenino,Masculino}
+@attribute Edad: {'26 a 35','18 a 25','mas de 45'}
+@attribute 'Como vas a la universidad?' {'Transporte publico','Transporte propio',Otros}
+@attribute 'Distancia de donde residís a la universidad en cuadras:' {'entre 30 y 40 cuadras','mas de 40 cuadras','entre 10 y 20 cuadras','entre 1 y 10 cuadras'}
+@attribute 'Cantidad de materias aprobadas hasta el momento (con final):' {0,2,3,4,5,7,8,11,25,28,34,37}
+@attribute 'Cantidad de materias desaprobadas hasta el momento:' {0,1,2,3,4,5,7}
+@attribute 'Cantidad de años cursados:' {1,2,3,4,5}
+@attribute 'Cantidad máxima de materias aprobadas en un cuatrimestre:' {2,3,4,5,7}
+@attribute 'Cantidad mínima de materias aprobadas en un cuatrimestre:' {0,1,2,3,4,5}
+@attribute 'Cantidad máxima de materias desaprobadas en un cuatrimestre:' {0,1,2,3,4,5}
+@attribute 'Cantidad mínima de materias desaprobadas en un cuatrimestre:' {0,1,2,4}
+
+@data
+Femenino,'26 a 35','Transporte publico','entre 30 y 40 cuadras',2,0,1,2,1,0,0
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',11,5,3,7,0,1,1
+Masculino,'26 a 35','Transporte propio','entre 30 y 40 cuadras',25,2,3,4,2,2,0
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,5,5,0,0
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,5,4,0,0
+Masculino,'26 a 35','Transporte publico','mas de 40 cuadras',5,1,1,3,1,1,0
+Femenino,'18 a 25','Transporte propio','entre 10 y 20 cuadras',8,2,2,3,2,1,1
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',2,2,1,2,0,2,0
+Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',8,0,1,3,2,1,1
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',3,0,1,3,3,0,0
+Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',0,0,1,2,2,4,4
+Masculino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',2,7,5,2,2,2,2
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',34,2,5,4,2,1,0
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',7,4,2,2,1,2,1
+Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,4,4,0,0
+Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',5,3,3,3,1,2,1
+Masculino,'26 a 35',Otros,'entre 1 y 10 cuadras',28,0,4,5,3,5,0
+Masculino,'mas de 45','Transporte propio','mas de 40 cuadras',5,1,1,4,1,1,0
+Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',3,5,2,3,0,3,0
+Masculino,'26 a 35','Transporte publico','entre 30 y 40 cuadras',37,0,5,5,2,2,0

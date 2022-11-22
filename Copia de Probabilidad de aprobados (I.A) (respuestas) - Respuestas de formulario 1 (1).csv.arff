@@ -1,0 +1,72 @@
+@relation 'Copia de Probabilidad de aprobados (I.A) (respuestas) - Respuestas de formulario 1 (1)-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.StringToNominal-Rlast'
+
+@attribute Localidad: {'General Rodriguez ',Ituzaingo,Merlo,'Marcos Paz','Castelar ','Paso del Rey',Castelar,Moreno,Libertad,Pontevedra,'Moron ','Moreno ','Paso del rey ','Mariano Acosta','Ituzaingo ','San Antonio de Padua','Libertad ','Merlo '}
+@attribute Genero {Masculino,Femenino}
+@attribute Edad: {'18 a 25','mas de 45','26 a 35','36 a 45'}
+@attribute 'Como vas a la universidad?' {'Transporte publico','Transporte propio',Otros}
+@attribute 'Distancia de donde residís a la universidad en cuadras:' {'mas de 40 cuadras','entre 30 y 40 cuadras','entre 10 y 20 cuadras','entre 1 y 10 cuadras'}
+@attribute 'Cantidad de materias aprobadas hasta el momento (con final):' numeric
+@attribute 'Cantidad de materias desaprobadas hasta el momento:' numeric
+@attribute 'Cantidad de años cursados:' string
+@attribute 'Cantidad máxima de materias aprobadas en un cuatrimestre:' numeric
+@attribute 'Cantidad mínima de materias aprobadas en un cuatrimestre:' numeric
+@attribute 'Cantidad máxima de materias desaprobadas en un cuatrimestre:' numeric
+@attribute 'Cantidad mínima de materias desaprobadas en un cuatrimestre:' numeric
+
+@data
+'General Rodriguez ',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',9,6,2,3,2,3,2
+Ituzaingo,Femenino,'mas de 45','Transporte publico','mas de 40 cuadras',4,1,2,2,2,0,0
+Merlo,Femenino,'26 a 35','Transporte publico','entre 30 y 40 cuadras',2,0,1,2,1,0,0
+'Marcos Paz',Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',3,2,1,2,2,2,1
+'Castelar ',Femenino,'26 a 35','Transporte publico','mas de 40 cuadras',4,1,1,2,2,1,1
+Ituzaingo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',3,2,2,3,1,3,0
+'Paso del Rey',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',11,5,3,7,0,1,1
+Merlo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',11,1,2,2,1,1,1
+Merlo,Masculino,'26 a 35','Transporte propio','entre 30 y 40 cuadras',25,2,3,4,2,2,0
+Castelar,Masculino,'26 a 35','Transporte publico','mas de 40 cuadras',32,20,6,6,1,6,1
+Moreno,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',5,1,1,3,2,1,1
+Merlo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,5,5,0,0
+Merlo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,5,4,0,0
+Merlo,Masculino,'26 a 35','Transporte publico','mas de 40 cuadras',5,1,1,3,1,1,0
+Libertad,Femenino,'18 a 25','Transporte propio','entre 10 y 20 cuadras',8,2,2,3,2,1,1
+Pontevedra,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,0.5,4,4,0,0
+Merlo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',10,3,2,4,2,1,1
+Merlo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',2,3,1,3,2,2,1
+Ituzaingo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',15,1,2,5,3,1,1
+'Moron ',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',2,2,1,2,0,2,0
+Merlo,Femenino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',2,2,1,2,1,1,1
+Merlo,Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',7,5,2,3,2,0,0
+Moreno,Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',8,0,1,3,2,1,1
+'Moreno ',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',13,0,2,5,4,0,0
+Merlo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',9,1,2,3,1,2,1
+Ituzaingo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',3,0,1,3,3,0,0
+Merlo,Femenino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',16,0,2.5,5,3,0,0
+Merlo,Masculino,'26 a 35',Otros,'entre 1 y 10 cuadras',5,5,2,3,1,2,1
+'Paso del rey ',Masculino,'26 a 35','Transporte propio','mas de 40 cuadras',10,2,3,4,1,1,1
+Merlo,Masculino,'26 a 35',Otros,'entre 1 y 10 cuadras',5,1,2,3,1,2,1
+Merlo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',0,7,1,0,0,5,2
+Moreno,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',0,0,1,2,2,4,4
+Merlo,Masculino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',2,7,5,2,2,2,2
+Merlo,Femenino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',1,5,2,3,1,3,1
+'Moreno ',Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',5,3,1,4,1,3,0
+Merlo,Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',8,3,2,4,0,2,0
+'Mariano Acosta',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',6,3,2,3,2,2,1
+Merlo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',11,3,2,3,2,2,1
+Ituzaingo,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',34,2,5,4,2,1,0
+Merlo,Femenino,'26 a 35','Transporte publico','mas de 40 cuadras',3,5,1,5,2,3,1
+Merlo,Femenino,'18 a 25','Transporte publico','entre 10 y 20 cuadras',2,2,1,2,1,1,1
+Moreno,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',10,1,2,5,1,2,0
+Moreno,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',7,4,2,2,1,2,1
+Merlo,Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',4,0,1,4,4,0,0
+'Ituzaingo ',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',5,3,3,3,1,2,1
+Ituzaingo,Masculino,'36 a 45','Transporte propio','mas de 40 cuadras',16,6,3,4,2,1,1
+Merlo,Masculino,'26 a 35',Otros,'entre 1 y 10 cuadras',28,0,4,5,3,5,0
+Ituzaingo,Masculino,'mas de 45','Transporte propio','mas de 40 cuadras',5,1,1,4,1,1,0
+'San Antonio de Padua',Masculino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',3,5,2,3,0,3,0
+'Libertad ',Femenino,'18 a 25','Transporte publico','entre 30 y 40 cuadras',8,3,1.5,4,2,3,1
+Moreno,Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',2,0,1,2,2,0,0
+'Merlo ',Masculino,'18 a 25','Transporte publico','mas de 40 cuadras',1,4,1,2,2,1,1
+Merlo,Masculino,'18 a 25','Transporte propio','entre 10 y 20 cuadras',23,6,5,5,0,2,1
+Moreno,Femenino,'18 a 25','Transporte publico','mas de 40 cuadras',10,2,5,3,0,2,1
+Merlo,Masculino,'26 a 35','Transporte publico','entre 30 y 40 cuadras',37,0,5,5,2,2,0
+Merlo,Masculino,'36 a 45','Transporte propio','entre 30 y 40 cuadras',25,5,5,5,1,2,1
