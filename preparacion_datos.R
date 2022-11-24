@@ -7,6 +7,7 @@ View(Copia_de_Probabilidad_de_aprobados_I_A_respuestas_Respuestas_de_formulario_
 
 data <- Copia_de_Probabilidad_de_aprobados_I_A_respuestas_Respuestas_de_formulario_1_1_
 
+summary(data)
 
 set.seed(56) # Numero inicial del cual comenzara a generar una secuencia aleatoria.
 split_train_test <- createDataPartition(data$`Distancia de donde residís a la universidad en cuadras:`, p=0.6, list=FALSE) #p = porcentaje de los datos a usar, list = Si el resultado devolvera una lista o una matriz. 
